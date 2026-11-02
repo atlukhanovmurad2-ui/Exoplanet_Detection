@@ -1,1 +1,2 @@
 Initial readme
+Nadir Azizov
