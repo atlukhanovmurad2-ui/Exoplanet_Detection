@@ -3,3 +3,9 @@
 
 #Ignore the dataset folder
 /data/
+
+# Ignore __pycache__ folders
+__pycache__/
+
+#Ignore .pytest_cache folders
+.pytest_cache/
