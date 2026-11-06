@@ -1,5 +1,4 @@
 # Ignore the Python virtual environment folder
 /.venv/
-
-#Ignore the dataset folder
-/data/
+/__pycahche__/
+.gitignore
